@@ -1,1 +1,1 @@
-# openshiftDO180
+# openshiftPOC
